@@ -1,3 +1,10 @@
-body {
+@import "bootstrap-spinner";
+@import "bootstrap-datetimepicker-standalone";
 
+#newOrder {
+  .form-group {
+    label, input {
+
+    }
+  }
 }

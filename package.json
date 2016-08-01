@@ -16,6 +16,7 @@
     "gulp-babel": "*",
     "gulp-concat": "*",
     "gulp-cssnano": "*",
+    "gulp-plumber": "^1.1.0",
     "gulp-rename": "*",
     "gulp-sass": "*",
     "gulp-sourcemaps": "*",

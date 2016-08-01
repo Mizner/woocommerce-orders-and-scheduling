@@ -1,5 +1,9 @@
 <?php
-//add_filter( 'the_title', 'get_wc_api_client', 10, 2 );
+/*
+ * http://www.htmlgoodies.com/beyond/cms/using-the-woocommerce-rest-api.html
+ */
+
+
 function get_wc_api_client() {
 	// Include the client library
 	require_once 'woo-api/woocommerce-api.php';
